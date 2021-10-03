@@ -48,3 +48,7 @@ body p{
     color: rgb(255,100,0);
     font-family: 'Grechen Fuemen', cursive;
 }
+
+#contactUs label {
+    font-weight: bold;
+}
