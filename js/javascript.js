@@ -9,3 +9,7 @@ function myService() {
 function backEnd() {
     window.location.href = "backend.html";
 }
+
+function contactUs() {
+    window.location.href = "contact.html";
+}
