@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Grechen+Fuemen&display=swap');
+
+body p{
+    font-family: 'EB Garamond', serif;
+}
+
+.navbar-brand {
+    font-family: 'Grechen Fuemen', cursive;
+    text-transform: lowercase;
+}
+
+.nav-item {
+    text-align: right;
+}
+
+#navbarNav {
+    justify-content: flex-end;
+}
+
+.blockquote {
+    color:rgb(255,100,0);
+    font-family: 'Grechen Fuemen', cursive;
+}
+
+.news h6 {
+    color:rgb(255,100,0);
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: left;
+    
+}
+#address {
+    text-align: center;
+}
+
+.copyright {
+    text-align: center;
+    color:rgb(255,100,0);
+    padding: 5px;
+    
+}
